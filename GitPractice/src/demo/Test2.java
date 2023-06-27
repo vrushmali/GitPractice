@@ -16,7 +16,8 @@ public class Test2 {
 		
 		int a=12;
 		int b=30;
-		int c=a+b;
+		int d=50;
+		int c=a+b+d;
 		System.out.println("addition is "+c);
 		
 	}
